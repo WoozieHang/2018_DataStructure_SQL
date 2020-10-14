@@ -1,0 +1,2 @@
+UNION score score1
+INTER score score1
